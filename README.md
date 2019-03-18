@@ -1,4 +1,5 @@
-# MovieBuff
-This is a chatbot built using Microsoft Bot Framework. This chatbot provides movie suggestions from the Top 250 movies on IMDb.
+## MovieBuff
 
-## Authors: Divya Rajendran & Pramod Duvvuri
+### Authors: Divya Rajendran & Pramod Duvvuri
+
+This is a chatbot built using Microsoft Bot Framework. This chatbot provides movie suggestions from the Top 250 movies on IMDb.
